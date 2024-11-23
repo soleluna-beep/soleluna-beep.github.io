@@ -63,7 +63,15 @@ body{
 }
 
 p {
-    font-size: 15px;
+    font-size: 17px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(82, 38, 8);
+    text-align: justify;
+}
+
+.p-intro {
+    font-size: 15.5px;
     font-weight: 400;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:rgb(82, 38, 8);
